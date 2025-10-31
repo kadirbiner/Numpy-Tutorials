@@ -22,7 +22,7 @@ Aşağıdaki konular detaylı olarak işlenmiştir:
 | 07 | İstatistiksel İşlemler | `mean`, `median`, `std`, `sum`, `min`, `max` |
 | 08 | Boolean Masking & Filtering | Koşullu seçimlerle veri süzme |
 | 09 | Rastgele Sayılar | `numpy.random` modülü ile örneklem oluşturma |
-| 10 | Gerçek Dünya Uygulamaları | NumPy’nin veri analizi ve makine öğrenmesindeki kullanımı |
+| 10 | Gerçek Dünya Uygulamaları | Numpy ile Mantıksal operatörler ve Filtreleme |
 
 ---
 
