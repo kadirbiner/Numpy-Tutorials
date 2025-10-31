@@ -6,9 +6,9 @@ Tüm kodlar **Google Colab** veya **Jupyter Notebook** ortamında kolayca çalı
 
 ---
 
-## 📘 İçerik
+##  İçerik
 
-| 🔢 No | 📂 Ders Başlığı | 📝 Açıklama |
+|  No | 📂 Ders Başlığı |  Açıklama |
 | :--: | :------------------------------- | :-------------------------- |
 | 1 | **NumPy-Dersleri (Giriş)** | NumPy’ye giriş, `array` yapısı, skaler, vektör, matris ve tensor kavramları |
 | 2 | **Neden NumPy?** | NumPy’nin sağladığı hız, verimlilik ve avantajların gösterimi |
